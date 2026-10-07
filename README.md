@@ -8,6 +8,8 @@ A structured, source-linked reference of endpoint protection, EDR and related pr
 
 Every entry links back to its public profile on endpointindex.com, where sources and update dates are shown.
 
+The full, current data lives on endpointindex.com; this repository documents the schema and methodology.
+
 ## Fields
 
 | Field | Description |
@@ -32,4 +34,4 @@ Vendors can request inclusion or corrections at https://endpointindex.com or by 
 
 ## Licence
 
-Data is released under CC BY 4.0. Please credit "Endpoint Index (endpointindex.com)".
+This repository is released under the MIT License. Please credit "Endpoint Index (endpointindex.com)".
